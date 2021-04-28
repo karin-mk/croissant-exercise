@@ -12,3 +12,20 @@ li {
   margin: 20px;
   text-align: center;
 }
+
+p {
+  text-align: center;
+  display: block;
+  padding: 0px 100px;
+}
+
+img {
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+.contact {
+  display: flex;
+  justify-content: center;
+}
