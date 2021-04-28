@@ -1,3 +1,7 @@
+body {
+  background-color: blanchedalmond;
+}
+
 h1 {
   text-align: center;
 }
@@ -17,6 +21,7 @@ p {
   text-align: center;
   display: block;
   padding: 0px 100px;
+  line-height: 1.5;
 }
 
 img {
